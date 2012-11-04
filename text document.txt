@@ -4,5 +4,6 @@ public void (){
 			println(i);
 		}
 	break;
+	println("Wait I didn't want to do that oh god");
 	}
 }

@@ -1,0 +1,6 @@
+public void () {
+	run(){
+		println("Dear god not another file");
+		println("With uncreative names, too. The horror.");
+	}
+}

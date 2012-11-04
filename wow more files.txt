@@ -3,4 +3,5 @@ public void () {
 		println("Dear god not another file");
 		println("With uncreative names, too. The horror.");
 	}
+	benzrf-added-this-line-just-because();
 }
